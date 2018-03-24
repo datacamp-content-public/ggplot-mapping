@@ -5,7 +5,7 @@ description: >-
 
 
 ---
-## Insert exercise title here
+## ggplot aesthetics exercise
 
 ```yaml
 type: NormalExercise
